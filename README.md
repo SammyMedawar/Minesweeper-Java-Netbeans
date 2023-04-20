@@ -6,5 +6,5 @@ Sammy Medawar - sammymedawar2002@gmail.com
 Omar Arabi - omararabi100@gmail.com  
 Wally el Sayed - wally.a.elsayed@gmail.com    
 
--**If you want to execute the application without Netbeans, please download the "Execute This" folder**  
+-**If you want to execute the application without Netbeans, please download the "Execute This" folder**       
 -**For more information and screenshots, please access the PDF file in the project**
